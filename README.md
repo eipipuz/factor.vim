@@ -6,10 +6,8 @@ more pleasant in Vim.
 
 ## Installation
 
-The file-layout exactly matches the Vim runtime
-structure, so you can install them by copying the contents of this directory
-into `~/.vim/` or the equivalent path on other platforms (Open Vim and type
-`:help 'runtimepath'` for details).
+Use Bundle, at your `~/.vimrc` add the line `Bundle 'eipipuz/factor.vim'` then
+run `:BundleInstall`
 
 ## File organization
 
